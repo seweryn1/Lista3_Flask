@@ -12,7 +12,7 @@
   $ pip install Flask
   $ export FLASK_APP=main.py
   $ python main.py
-  
+  #  Running on http://127.0.0.1:5000/
 
   # zobacz
   $ pip list
